@@ -1,2 +1,3 @@
-# pjssmile
-this is the project
+# demoforspring
+This is the project for springmvc ,Incloude redis and memcached and mongodb.
+coming..
