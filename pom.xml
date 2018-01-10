@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>it2maven</groupId>
-  <artifactId>it2maven</artifactId>
+  <groupId>demo</groupId>
+  <artifactId>demo</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>it2maven Maven Webapp</name>
+  <name>demo Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <!-- 配置属性 -->
   <properties>  
@@ -258,6 +258,6 @@
 
   </dependencies> 
   <build>
-    <finalName>it2maven</finalName>
+    <finalName>demo</finalName>
   </build>
 </project>
